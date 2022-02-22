@@ -95,3 +95,41 @@
 
 ## Popular IaC tools
 ![](images/popular_IaC_tools.png)
+![](images/declarative+.png)
+![](images/infrastructure_lifecycle_1.png)
+![](images/infrastructure_lifecycle_2.png)
+![](images/idempotent_vs_non-idempotent.png)
+![](images/provision_vs_deployment_vs_orchestration.png)
+![](images/configuration_drift_1.png)
+![](images/configuration_drift_2.png)
+![](images/immutable_vs_mutable.png)
+![](images/GitOps.png)
+![](images/immutalbe_infra_guarantee.png)
+![](images/Hashicorp.png)
+![](images/hashicorp_products_1.png)
+![](images/hashicorp_products_2.png)
+![](images/what_is_tf.png)
+![](images/tf_cloud.png)
+![](images/tf_lifecycle.png)
+![](images/tf-change_automation.png)
+![](images/tf-execution_plans.png)
+![](images/tf-visualing_execution_plans.png)
+![](images/tf-resource_graph.png)
+![](images/use_cases.png)
+![](images/tf_core_and_plugins.png)
+
+
+# INSERT IMAGES
+
+# Terraform Commands
+```
+terraform init
+terraform validate
+terraform plan
+terraform apply
+terraform apply -auto-approve
+terraform output
+terraform refresh
+terraform destroy
+terraform plan -destroy
+```
